@@ -9,6 +9,8 @@
   RooMapp is an app helping students find their lessons faster on the third foor of "Maison du Savoir". It gives you an opportunity to enter your courses and classrooms for the whole semester. We will give you a map and guide you to each classroom. 
   
   The app also has pictures of each classroom, so you know what to expect when you get there. Is your lesson in a small room or in a big lecture hall? Also, if you have to give a presentation, you can check which cables or wireless solutions are available in each room for you to connect your computer once you get there.
+  
+  ![image](https://user-images.githubusercontent.com/71665475/189124411-2c0d97cd-16db-4b3e-887e-cf70c227d354.png)
 
 # Requirements
 
